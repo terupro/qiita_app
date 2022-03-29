@@ -1,0 +1,14 @@
+「Qiitaアプリ」
+・Riverpod + Flutter hooks+ StateNotifier + freezed
+・記事一覧・記事詳細（WebView）・検索ページがある
+・無限スクロール/下に引っ張って更新できる
+
+
+アーキテクチャ (MVVM + Repository)
+・ViewModel - MVVMの中核となる部分。記事一覧・検索キーワードなどの状態を保持して、Viewに渡す役割を担う。
+
+・View - 見た目の部分。ViewModelから値を受け取って表示する。
+
+・Repository - ViewModelでデータを取得するとき、その取得先がサーバーかローカルかを意識させないためのもの。
+
+・Model - QiitaAPIで取得したい内容をクラスでまとめ、

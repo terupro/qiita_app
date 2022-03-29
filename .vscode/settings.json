@@ -1,0 +1,11 @@
+{
+   "editor.codeActionsOnSave": {
+      "source.fixAll": true
+   },
+   "cSpell.words": [
+      "MVVM",
+      "Qiita",
+      "Riverpod"
+   ]
+   
+}
