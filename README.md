@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Image 
+<img src="https://user-images.githubusercontent.com/92189386/160577234-b5d603d7-63ae-4998-bf34-bea3af9940ef.png" width="300">
 
 ## Getting Started
 
