@@ -3,7 +3,10 @@
 A new Flutter project.
 
 ## Image 
-<img src="https://user-images.githubusercontent.com/92189386/160577234-b5d603d7-63ae-4998-bf34-bea3af9940ef.png" width="300">
+
+|HomePage|DetailPage|SearchPage|
+|---|---|---|
+|<img src="https://user-images.githubusercontent.com/92189386/160577234-b5d603d7-63ae-4998-bf34-bea3af9940ef.png" width="300">|<img src="https://user-images.githubusercontent.com/92189386/160577416-c49de2d3-961c-45cd-958d-019c02606795.png" width="300">|<img src="https://user-images.githubusercontent.com/92189386/160577790-0000d783-47c4-4dfe-9985-cfa03a9de434.png" width="300">|
 
 ## Getting Started
 
